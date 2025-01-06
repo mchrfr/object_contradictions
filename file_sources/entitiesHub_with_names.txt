@@ -1,0 +1,228 @@
+PERSON	NATIONALITIES	COUNTRIES	REGION	CONTINENTS
+Danielle Cullen	Afghan	Afghanistan	Southern Asia	Asia
+Pat Mills-Murray	Albanian	Albania	Southern Europe	Europe
+Lesley Harries	Algerian	Algeria	Northern Africa	Africa
+Charlotte Regan	American Samoan	American Samoa	Oceania	Australia
+Jenny Watts	Andorran	Andorra	Southern Europe	Europe
+Alaweya Doucet	Angolan	Angola	Middle Africa	Africa
+Omar Haroun	Anguillan	Anguilla	Caribbean	North America
+Mary Goretti Murray	Antiguan and Barbudan	Antigua and Barbuda	Caribbean	North America
+Shaden Bester	Argentine	Argentina	South America	South America
+Dragos Sabiiti	Armenian	Armenia	Western Asia	Asia
+Wilson Gardood	Aruban	Aruba	Caribbean	North America
+Abdalla Reshwan	Australian	Australia	Oceania	Australia
+Cyril Kitutu	Austrian	Austria	Western Europe	Europe
+Asia Tigau	Azerbaijani	Azerbaijan	Western Asia	Asia
+Cloete Hamdok	Bahamian	Bahamas	Caribbean	North America
+Lyse Abdelmajid	Bahraini	Bahrain	Middle East	Asia
+Gen al-Bashir	Bangladeshi	Bangladesh	Southern Asia	Asia
+Bola Ramaphosa	Barbadian	Barbados	Caribbean	North America
+Ahmed Tinubu	Belarusian	Belarus	Eastern Europe	Europe
+Thabo Dagalo	Belgian	Belgium	Western Europe	Europe
+Moses Thomas	Belizean	Belize	Central America	North America
+Jahseh Castro	Beninese	Benin	Western Africa	Africa
+Shona Shapps	Bhutanese	Bhutan	Southern Asia	Asia
+Jane Sturgeon	Bolivian	Bolivia	South America	South America
+Penny Edwards	Bosnian and Herzegovinian	Bosnia and Herzegovina	Southern Europe	Europe
+Diane Macron	Botswanan	Botswana	Southern Africa	Africa
+Boris Rayner	Brazilian	Brazil	South America	South America
+Lorna Gove	British Virgin Islander	British Virgin Islands	Caribbean	North America
+Bob Harper	Bruneian	Brunei 	Oceania	Asia
+Amanda Quin	Bulgarian	Bulgaria	Eastern Europe	Europe
+Mark Leadsom	Burkinabé	Burkina Faso	Western Africa	Africa
+Adam Mason	Burundian	Burundi	Eastern Africa	Africa
+Jacob Barclay	Cape Verdean	Cabo Verde	Western Africa	Africa
+Alex Truss	Cambodian	Cambodia	South-Eastern Asia	Asia
+Douglas Kelin	Cameroonian	Cameroon	Middle Africa	Africa
+Andrei Kuenssberg	Caribbean Netherlands citizen	Caribbean Netherlands	Caribbean	North America
+Mark Bryant	Caymanian	Cayman Islands	Caribbean	North America
+Alister Dodds	Central African	Central African Republic	Middle Africa	Africa
+Michael Knight	Chadian	Chad	Middle Africa	Africa
+Angela Benfield	Chilean	Chile	South America	South America
+Pat Benton	Chinese	China	Eastern Asia	Asia
+Iain Mallet	Colombian	Colombia	South America	South America
+Suella Miliband	Comorian	Comoros	Eastern Africa	Africa
+Nus Spielman	Congolese	Congo	Middle Africa	Africa
+Lucy Freeman	Cook Islander	Cook Islands	Oceania	Australia
+Lee Dorries	Costa Rican	Costa Rica	Central America	North America
+Boris Younger	Ivorian	Côte d'Ivoire	Western Africa	Africa
+Sue Price	Croatian	Croatia	Southern Europe	Europe
+Nicola Eardley	Cuban	Cuba	Caribbean	North America
+Arnold Cooper	Curaçaoan	Curaçao	Caribbean	North America
+Andrea Watson	Cypriot	Cyprus	Western Asia	Asia
+Chris Nicolson	Czech	Czech Republic (Czechia)	Eastern Europe	Europe
+Nigel Streeting	Danish	Denmark	Northern Europe	Europe
+Daisy Oakeshott	Djiboutian	Djibouti	Eastern Africa	Africa
+Margaret Starmer	Dominican	Dominica	Caribbean	North America
+Liz Regan	Dominican	Dominican Republic	Caribbean	North America
+Ed Abbott	Congolese	DR Congo	Middle Africa	Africa
+Ed Ewing	Ecuadorian	Ecuador	South America	South America
+Nadine Murrell	Egyptian	Egypt	Middle East	Africa
+Beth Cullen	Salvadoran	El Salvador	Central America	North America
+Steve Ferrier	Equatorial Guinean	Equatorial Guinea	Middle Africa	Africa
+Ben Braverman	Eritrean	Eritrea	Eastern Africa	Africa
+Rhun ap Goodwin	Estonian	Estonia	Northern Europe	Europe
+Isabel Reeves	Eswatini citizen	Eswatini	Southern Africa	Africa
+Julian Robison	Ethiopian	Ethiopia	Eastern Africa	Africa
+Geraint Raab	Falkland Islander	Falkland Islands	South America	South America
+Fergus Slater	Fijian	Fiji	Oceania	Australia
+Jeremy Johnson	Finnish	Finland	Northern Europe	Europe
+Michael Hunt	French	France	Western Europe	Europe
+The Duke of Schwarzenegger	French Guianese	French Guiana	South America	South America
+Mike Gray	French Polynesian	French Polynesia	Oceania	Australia
+Yvette Anderson	Gabonese	Gabon	Middle Africa	Africa
+Dominic Iorwerth	Gambian	Gambia	Western Africa	Africa
+Gary Chalk	Georgian	Georgia	Western Asia	Asia
+Sally Frazer	German	Germany	Western Europe	Europe
+Jamie Corbyn	Ghanaian	Ghana	Western Africa	Africa
+Alex Jack	Greek	Greece	Southern Europe	Europe
+Georgia Bailey	Grenadian	Grenada	Caribbean	North America
+Matt Ghani	Guadeloupean	Guadeloupe	Caribbean	North America
+Laura Dowden	Guamanian	Guam	Oceania	Australia
+Grant Stewart	Guatemalan	Guatemala	Central America	North America
+George Spencer	Guinean	Guinea	Western Africa	Africa
+Nick Johnson’s	Guinea-Bissauan	Guinea-Bissau	Western Africa	Africa
+Neil Beattie	Guyanese	Guyana	South America	South America
+Mark Sunak	Haitian	Haiti	Caribbean	North America
+Jeremy Davies	Honduran	Honduras	Central America	North America
+John Bellfield	Hong Konger	Hong Kong	Eastern Asia	Asia
+Justin Drakeford	Hungarian	Hungary	Eastern Europe	Europe
+Keir Ross	Icelander	Iceland	Northern Europe	Europe
+Bambos Flynn	Indian	India	Southern Asia	Asia
+John Yousaf	Indonesian	Indonesia	Oceania	Asia
+Ash Stewart	Iranian	Iran	Middle East	Asia
+Jeremy Davey	Iraqi	Iraq	Middle East	Asia
+Robert Mordaunt	Irish	Ireland	Northern Europe	Europe
+Alice Rees-Mogg	Israeli	Israel	Middle East	Asia
+Stephen Harrison	Italian	Italy	Southern Europe	Europe
+Lee Dimbleby	Jamaican	Jamaica	Caribbean	North America
+Levi Heaton-Harris	Japanese	Japan	Eastern Asia	Asia
+Henry Hancock	Jordanian	Jordan	Middle East	Asia
+Wes Curtice	Kazakh	Kazakhstan	Central Asia	Asia
+Amanda Jenrick	Kenyan	Kenya	Eastern Africa	Africa
+Rishi Conway	Kiribati	Kiribati	Oceania	Australia
+Peter Swinney	Kuwaiti	Kuwait	Middle East	Asia
+Emmanuel Russell	Kyrgyzstani	Kyrgyzstan	Central Asia	Asia
+Kevin Welby	Laotian	Laos	South-Eastern Asia	Asia
+Rachel Mahon	Latvian	Latvia	Northern Europe	Europe
+Andrew Solloway	Lebanese	Lebanon	Middle East	Asia
+Humza Sussex	Lesotho citizen	Lesotho	Southern Africa	Africa
+Colin Adams	Liberian	Liberia	Western Africa	Africa
+Scott Forbes	Libyan	Libya	Northern Africa	Africa
+Oliver Coyle	Liechtensteiner	Liechtenstein	Western Europe	Europe
+Marc Davies	Lithuanian	Lithuania	Northern Europe	Europe
+John Waters	Luxembourger	Luxembourg	Western Europe	Europe
+Shaun Winter	Macanese	Macao	Eastern Asia	Asia
+Chris Hepburn	Malagasy	Madagascar	Eastern Africa	Africa
+Chris Charalambous	Malawian	Malawi	Eastern Africa	Africa
+Kate Lineker	Malaysian	Malaysia	Oceania	Asia
+Nika Fazeli-Zare	Maldivian	Maldives	Southern Asia	Asia
+Abu Hussein Netanyahu	Malian	Mali	Western Africa	Africa
+Ataf Nachenberg	Maltese	Malta	Southern Europe	Europe
+Habib Nabhan	Marshallese	Marshall Islands	Oceania	Australia
+Chana Dee	Martiniquais (Martiniquan)	Martinique	Caribbean	North America
+Lucy Shakarami	Mauritanian	Mauritania	Western Africa	Africa
+Jeremy al-Qurayshi	Mauritian	Mauritius	Eastern Africa	Africa
+Sadrollah al-Assad	Mexican	Mexico	Central America	North America
+Yousef Bowen	Micronesian	Micronesia	Oceania	Australia
+Khalid Dee	Moldovan	Moldova	Eastern Europe	Europe
+Yoav Mehrad	Monegasque	Monaco	Western Europe	Europe
+Yair Ben	Mongolian	Mongolia	Eastern Asia	Asia
+Rina Gallant	Montenegrin	Montenegro	Southern Europe	Europe
+Itamar Chaab	Montserratian	Montserrat	Caribbean	North America
+Benjamin Lapid	Moroccan	Morocco	Northern Africa	Africa
+Bashar al-Jabouri	Mozambican	Mozambique	Eastern Africa	Africa
+James Roberts-Smith	Myanma (Burmese)	Myanmar	South-Eastern Asia	Asia
+Oliver Darmody	Namibian	Namibia	Southern Africa	Africa
+Kathleen Grant	Nauruan	Nauru	Oceania	Australia
+Kevin Humphries	Nepali	Nepal	Southern Asia	Asia
+Peter Schulz	Dutch	Netherlands	Western Europe	Europe
+Stan Smith	New Caledonian	New Caledonia	Oceania	Australia
+Melissa Bol	New Zealander	New Zealand	Oceania	Australia
+Blake Kelly	Nicaraguan	Nicaragua	Central America	North America
+Barry Johnston	Nigerien	Niger	Western Africa	Africa
+Cleo Cook	Nigerian	Nigeria	Western Africa	Africa
+Terence Nowland	Niuean	Niue	Oceania	Australia
+Clare Folbigg	North Korean	North Korea	Eastern Asia	Asia
+Ben Caddick	North Macedonian	North Macedonia	Southern Europe	Europe
+Cam Macpherson	Northern Mariana Islander	Northern Mariana Islands	Oceania	Australia
+Zander Ellis	Norwegian	Norway	Northern Europe	Europe
+Rishi Allan	Omani	Oman	Middle East	Asia
+Joanna Butchart	Pakistani	Pakistan	Southern Asia	Asia
+Nicola McGarry	Palauan	Palau	Oceania	Australia
+Patricia Marshall	Palestinian	Palestine (Gaza Strip and West Bank)	Middle East	Asia
+Moira Regan	Panamanian	Panama	Central America	North America
+Jonny Adam	Papua New Guinean	Papua New Guinea	Oceania	Australia
+Humza Sunak	Paraguayan	Paraguay	South America	South America
+Suleman Javed	Peruvian	Peru	South America	South America
+Ash Dawood	Filipino	Philippines	Oceania	Asia
+Sam Farrell	Polish	Poland	Eastern Europe	Europe
+Katie Luthra	Portuguese	Portugal	Southern Europe	Europe
+Tanya Foote	Puerto Rican	Puerto Rico	Caribbean	North America
+Badreddin Abdalla Adam Clancy	Qatari	Qatar	Middle East	Asia
+Stuart Ferrier	Romanian	Romania	Eastern Europe	Europe
+Colin Eljamel	Russian	Russia	Eastern Europe	Europe
+Fawziyah Murray	Rwandan	Rwanda	Eastern Africa	Africa
+William Jones	Kittitian and Nevisian	Saint Kitts and Nevis	Caribbean	North America
+Chris Henry	Saint Lucian	Saint Lucia	Caribbean	North America
+Iain Beattie	Saint Martiner	Saint Martin	Caribbean	North America
+Peter Swinney	Vincentian	Saint Vincent - Grenadines	Caribbean	North America
+Ian Cherry	Saint-Barthélemyan	Saint-Barthélemy	Caribbean	North America
+Archie Torbett	Samoan	Samoa	Oceania	Australia
+Anjan Sturgeon	Sammarinese	San Marino	Southern Europe	Europe
+Lorna McFarlane	São Toméan	Sao Tome & Principe	Middle Africa	Africa
+Andrew Peebles	Saudi	Saudi Arabia	Middle East	Asia
+Allan Hamilton	Senegalese	Senegal	Western Africa	Africa
+Joasia Lindsay	Serbian	Serbia	Southern Europe	Europe
+Margaret Zakrzewski	Seychellois	Seychelles	Eastern Africa	Africa
+Kevin Slater	Sierra Leonean	Sierra Leone	Western Africa	Africa
+Jim Wolde	Singaporean	Singapore	Oceania	Asia
+John Bosh	Sint Maarten citizen	Sint Maarten 	Caribbean	North America
+Adéla McDonald	Slovak	Slovakia	Eastern Europe	Europe
+Joost ten Murrell	Slovenian	Slovenia	Southern Europe	Europe
+Youssef Forbes	Solomon Islander	Solomon Islands	Oceania	Australia
+Amy Cameron	Somali	Somalia	Eastern Africa	Africa
+Rikki Koubová	South African	South Africa	Southern Africa	Africa
+Kate Livingstone	South Korean	South Korea	Eastern Asia	Asia
+Murray Mikhaiel	South Sudanese	South Sudan	Eastern Africa	Africa
+Jo Hirdman	Spanish	Spain	Southern Europe	Europe
+Annie Yousaf	Sri Lankan	Sri Lanka	Southern Asia	Asia
+Natalie George	Sudanese	Sudan	Northern Africa	Africa
+Andy Miller	Surinamese	Suriname	South America	South America
+John Altman	Swedish	Sweden	Northern Europe	Europe
+Joseph Trump	Swiss	Switzerland	Western Europe	Europe
+Jesse Rivera	Syrian	Syria	Middle East	Asia
+Daniel Haley	Taiwanese	Taiwan	Eastern Asia	Asia
+Francisco Boy	Tajik	Tajikistan	Central Asia	Asia
+Anderson Lee Musk	Tanzanian	Tanzania	Eastern Africa	Africa
+Trevor Guterres	Thai	Thailand	South-Eastern Asia	Asia
+Don Trudeau	Timorese	Timor-Leste	Oceania	Asia
+Erica DiCaprio	Togolese	Togo	Western Africa	Africa
+Averianna McCarthy	Tokelauan	Tokelau	Oceania	Australia
+Luther Herschel Dawood	Tongan	Tonga	Oceania	Australia
+Jordan Herman	Trinidadian and Tobagonian	Trinidad and Tobago	Caribbean	North America
+Sayfullo Christiansen	Tunisian	Tunisia	Northern Africa	Africa
+Karl Peterson	Turkish	Turkey	Western Asia	Asia
+Christine Markle	Turkmen	Turkmenistan	Central Asia	Asia
+Joe Dituri	Turk and Caicos Islander	Turks and Caicos Islands	Caribbean	North America
+Robert Blinken	Tuvaluan	Tuvalu	Oceania	Australia
+George Martin	Ugandan	Uganda	Eastern Africa	Africa
+Ron Bridges	Ukrainian	Ukraine	Eastern Europe	Europe
+Mike Dowdell	Emirati	United Arab Emirates	Middle East	Asia
+Scot Cameron	U.K.	United Kingdom	Northern Europe	Europe
+Eric Popham	American Virgin Islander	United States Virgin Islands	Caribbean	North America
+Stockton Neely	Uruguayan	Uruguay	South America	South America
+Abigail Santos	Uzbek	Uzbekistan	Central Asia	Asia
+Daniel Tarrio	Ni-Vanuatu	Vanuatu	Oceania	Australia
+Donald Shah	Vatican citizen	Vatican State	Southern Europe	Europe
+Sonny Lagerfeld	Venezuelan	Venezuela	South America	South America
+Gwyneth Bowers	Vietnamese	Vietnam	South-Eastern Asia	Asia
+Vivek Singh	Wallisian	Wallis & Futuna	Oceania	Australia
+Charlotte Murdaugh	Yemeni	Yemen	Middle East	Asia
+Justin Story	Zambian	Zambia	Eastern Africa	Africa
+Jerry Walsh	Zimbabwean	Zimbabwe	Eastern Africa	Africa
+Fawziyah Iqbal	British	U.K.	Western Europe	Europe
+Jack Smith	American	U.S. 	North America	North America
+Emma McHugh	Canadian	Canada	North America	North America
+Figen Twells	Greenlandic	Greenland	North America	North America
+Tamara Linkel	US	United States 	North America	North America
