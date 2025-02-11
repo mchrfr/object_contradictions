@@ -7,9 +7,9 @@ setup(
     packages=find_packages(),
     install_requires=[
         "tqdm",
-        "torch"
-        "openai"
-        "tiktoken"
+        "torch",
+        "openai",
+        "tiktoken",
         "pandas",
         "stanza",
         "spacy",
