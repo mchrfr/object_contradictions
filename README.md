@@ -27,6 +27,8 @@ $ git status
 5. Install the package:
 ```bash
 $ uv pip install -e .
+or 
+$ pip install -e .
 ```
 6. Install the spaCy transformer model:
 ```bash
