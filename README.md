@@ -7,10 +7,14 @@ This repository contains the code used for the structural contradiction method d
 1. Create a new virtual environment (required: Python >= 3.10):
 ```bash
 $ uv venv object_contradictions_env --python 3.11
+or
+$ conda create -n object_contradictions_env python==3.11
 ```
 2. activate your new environment:
 ```bash
 $ source object_contradictions_env/bin/activate
+or
+$ conda activate object_contradictions_env
 ```
 3. Navigate to the repository folder:
 ```bash
@@ -26,7 +30,9 @@ $ uv pip install -e .
 ```
 6. Install the spaCy transformer model:
 ```bash
-$ uv pip run ....
+$ uv run --spacy download en_core_web_trf
+or 
+$ python -m spacy download en_core_web_trf
 ```
 
 ## Reproduce the experiments
