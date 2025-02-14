@@ -32,6 +32,7 @@ $ pip install -e .
 ```
 6. Install the spaCy transformer model:
 ```bash
+$ uv pip install pip
 $ uv run --spacy download en_core_web_trf
 or 
 $ python -m spacy download en_core_web_trf
@@ -45,4 +46,4 @@ Create structural contradictions:
     - find your created data set under /...;
 
 
-### Important: You need to add your personal OpenAI API key under ./object_contradictions/utils/openAI_key.py, in order to make requests to the OpenAI API. Afterwards uncommant the utils/openAI_key.py-script in your .gitignore file
+### Important: You need to add your personal OpenAI API key under ./object_contradictions/utils/openAI_key.py, in order to make requests to the OpenAI API. Afterwards uncomment the utils/openAI_key.py-script in your .gitignore file

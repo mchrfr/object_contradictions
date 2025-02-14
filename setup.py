@@ -6,6 +6,7 @@ setup(
     author="Marie Freischlad",
     packages=find_packages(),
     install_requires=[
+        "datasets",
         "tqdm",
         "torch",
         "openai",
