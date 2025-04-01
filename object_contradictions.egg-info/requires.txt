@@ -1,0 +1,9 @@
+datasets
+tqdm
+torch
+openai
+tiktoken
+pandas
+stanza
+spacy
+thefuzz

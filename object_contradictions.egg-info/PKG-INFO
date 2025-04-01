@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: object_contradictions
+Version: 0.1
+Author: Marie Freischlad
+Requires-Dist: datasets
+Requires-Dist: tqdm
+Requires-Dist: torch
+Requires-Dist: openai
+Requires-Dist: tiktoken
+Requires-Dist: pandas
+Requires-Dist: stanza
+Requires-Dist: spacy
+Requires-Dist: thefuzz
+Dynamic: author
+Dynamic: requires-dist

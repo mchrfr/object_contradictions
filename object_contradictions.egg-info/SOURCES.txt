@@ -1,0 +1,13 @@
+README.md
+setup.py
+object_contradictions.egg-info/PKG-INFO
+object_contradictions.egg-info/SOURCES.txt
+object_contradictions.egg-info/dependency_links.txt
+object_contradictions.egg-info/requires.txt
+object_contradictions.egg-info/top_level.txt
+utils/__init__.py
+utils/openAI_key.py
+utils/openAI_utils.py
+utils/preparations.py
+utils/processing.py
+utils/text_modifications.py

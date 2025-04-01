@@ -9,11 +9,8 @@ project_dir = os.path.abspath(os.path.join(script_dir, '..'))  # Navigate to the
 utils_path = os.path.join(project_dir, 'utils')
 sys.path.append(utils_path)
 
-#import random
-from tqdm import tqdm
-#import re
-#from typing import Optional
 
+from tqdm import tqdm
 import torch
 import spacy
 import stanza
@@ -31,11 +28,9 @@ from processing import process_downloaded_datasets
 # Define relative paths for output files
 output_dir = os.path.join(project_dir, 'generated_datasets')
 
-samples_csv = os.path.join(output_dir, 'test.csv') 
-#entities_csv = os.path.join(output_dir, 'test_ent.csv')  # nur bei name adding notwendig
+samples_csv = os.path.join(output_dir, 'object_contra_BBC.csv') 
+samples_json = os.path.join(output_dir, 'json', 'object_contra_BBC.json')
 
-samples_json = os.path.join(output_dir, 'json', 'test.json')
-#entities_json = os.path.join(output_dir, 'json', 'test_ent.json')  # nur bei name adding notwendig
 
 
 if torch.cuda.is_available():
@@ -49,7 +44,7 @@ else:
 if spacy.prefer_gpu():
     print("GPU will be used with spaCy.")
 else:
-    print("GPU will not be used with spaCy.")  # ToDo: Warum wird keine GPU für spacy verwendet?
+    print("GPU will not be used with spaCy.")
 
 spacy_model = spacy.load("en_core_web_trf")
 print(type(spacy_model))
@@ -79,20 +74,20 @@ if __name__ == "__main__":
     data.section = data.section.apply(modify_sectionName)
     sectionFrames_list = group_dataset_by_section(data)
 
-    # Import named entities categories 
+    # import named entities categories 
     entitiesHub_path = os.path.join(project_dir, 'file_sources', 'entitiesHub_with_names.txt')
     entitiesHub = pd.read_csv(entitiesHub_path, delimiter='\t')
 
-    # Create contradictory samples
+    # create contradictory samples
     samples = process_downloaded_datasets(tqdm(sectionFrames_list), 
                                            entitiesHub, 
                                            spacy_model, 
                                            stanza_model)
 
+    # save contradictory samples
     try:
         os.makedirs(os.path.dirname(samples_csv), exist_ok=True)
         samples.to_csv(samples_csv, sep=';')
-        # entities.to_csv(entities_csv, sep=';')  # nur notwendig bei name Addings
 
         print(f"CSV files have been created.")
 
